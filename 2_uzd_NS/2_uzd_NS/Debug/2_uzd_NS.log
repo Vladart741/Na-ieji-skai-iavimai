@@ -1,0 +1,7 @@
+﻿  2_uzd_NS.cpp
+c:\users\vladas\desktop\2_uzd_ns\2_uzd_ns\2_uzd_ns.cpp(61): warning C4101: 'r': unreferenced local variable
+c:\users\vladas\desktop\2_uzd_ns\2_uzd_ns\2_uzd_ns.cpp(154): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\vladas\desktop\2_uzd_ns\2_uzd_ns\2_uzd_ns.cpp(157): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\vladas\desktop\2_uzd_ns\2_uzd_ns\2_uzd_ns.cpp(159): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\vladas\desktop\2_uzd_ns\2_uzd_ns\2_uzd_ns.cpp(162): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  2_uzd_NS.vcxproj -> C:\Users\Vladas\Desktop\2_uzd_NS\Debug\2_uzd_NS.exe
