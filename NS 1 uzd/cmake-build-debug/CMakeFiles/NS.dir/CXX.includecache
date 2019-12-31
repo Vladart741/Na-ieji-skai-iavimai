@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Dekstop/NS/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+sys/time.h
+-
+omp.h
+-
+fstream
+-
+

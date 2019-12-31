@@ -1,0 +1,3 @@
+C:/Dekstop/NS/cmake-build-debug/CMakeFiles/NS.dir
+C:/Dekstop/NS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dekstop/NS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
